@@ -28,5 +28,5 @@
 - 贪心
 - 回溯
 
-- Acknowledgements
-  - https://coding.imooc.com/class/446.html
+### Acknowledgements
+- https://coding.imooc.com/class/446.html
